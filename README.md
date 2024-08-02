@@ -17,9 +17,3 @@ npm run dev
 ```
 npm run build
 ```
-
-## Run Production
-
-```
-npm run preview
-```
