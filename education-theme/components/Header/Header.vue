@@ -132,7 +132,7 @@
 
 <script>
 import { inject } from 'vue';
-import logo from '@/assets/images/theBridgeLogo.jpeg';
+import logo from '@/assets/images/theBridgeLogo.png';
 import link from '@/assets/text/link';
 import brand from '@/assets/text/brand';
 import navMenu from './menu';
