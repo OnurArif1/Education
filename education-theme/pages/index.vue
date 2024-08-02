@@ -16,9 +16,9 @@
 <!--      <div id="about">-->
 <!--        <about />-->
 <!--      </div>-->
-<!--      <section id="testimonials" class="space-top">-->
-<!--        <testimonials />-->
-<!--      </section>-->
+      <section id="testimonials" class="space-top">
+        <about-us />
+      </section>
       <section id="blog" class="space-top-short">
         <blog />
       </section>
@@ -85,6 +85,7 @@ import PageNav from '@/components/PageNav';
 import Notification from '@/components/Notification';
 import brand from '@/assets/text/brand';
 import { defineNuxtComponent, useRouter, useCookie } from '#app';
+import AboutUs from '@/components/AboutUs';
 
 export default defineNuxtComponent({
   components: {
@@ -100,6 +101,7 @@ export default defineNuxtComponent({
     PageNav,
     Hidden,
     Notification,
+    AboutUs
   },
   setup() {
     // push route to the stored cookie languages only for index page

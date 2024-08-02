@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf721bd1-10fc-43ce-9171-accb3a847601" name="Changes" comment="remove README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.education.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.education.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf721bd1-10fc-43ce-9171-accb3a847601" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,8 @@
       <workItem from="1722423651319" duration="11188000" />
       <workItem from="1722516282715" duration="6095000" />
       <workItem from="1722582063234" duration="12518000" />
-      <workItem from="1722600743083" duration="884000" />
+      <workItem from="1722600743083" duration="960000" />
+      <workItem from="1722605065192" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <option name="closed" value="true" />
@@ -106,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722601044936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <option name="closed" value="true" />
+      <created>1722602351174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722602351174</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed logo">
+      <option name="closed" value="true" />
+      <created>1722605284576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722605284576</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,8 +131,9 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="fix" />
     <MESSAGE value="remove README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove README.md" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fixed logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed logo" />
   </component>
 </project>

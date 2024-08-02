@@ -34,16 +34,15 @@
   max-width: 700px;
 }
 
-/* Liste stili */
 ul.list-style {
-  padding-left: 20px; /* Liste işaretlerinin sağında boşluk bırakır */
-  margin: 0; /* Liste içi margin'i sıfırla */
-  list-style-type: disc; /* Liste işaretlerini belirle */
+  padding-left: 20px; 
+  margin: 0; 
+  list-style-type: disc; 
 }
 
-/* Liste elemanlarını alt alta göstermek için */
+
 ul.list-style li {
-  display: list-item; /* Varsayılan olarak list-item olur, ama kesinlik kazandırır */
+  display: list-item; 
 }
 </style>
 
