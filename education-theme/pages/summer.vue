@@ -5,7 +5,7 @@
   
   export default defineNuxtComponent({
     components: {
-      Summer
+      Summer,
     },
     head() {
       return {
@@ -20,7 +20,3 @@
     <summer />
   </div>
 </template>
-
-<style scoped lang="scss">
-
-</style>
